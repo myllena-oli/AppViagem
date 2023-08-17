@@ -1,9 +1,10 @@
-package com.example.appviagem
+package com.example.appviagem.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
+import com.example.appviagem.R
 import com.example.appviagem.application.FuelCalculatorUseCase
 import com.example.appviagem.application.viewmodel.FuelCalculatorViewModel
 import com.example.appviagem.databinding.ActivityMainBinding
